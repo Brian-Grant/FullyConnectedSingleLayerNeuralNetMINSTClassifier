@@ -1,0 +1,12 @@
+*.o
+sequential2
+softmax_cross-entropy
+mnist-nn
+
+mnist/t10k-images.idx3-ubyte
+mnist/t10k-labels.idx1-ubyte
+mnist/train-images.idx3-ubyte
+mnist/train-labels.idx1-ubyte
+
+training_ascii.txt
+test_ascii.txt
